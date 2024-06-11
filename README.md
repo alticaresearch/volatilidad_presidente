@@ -2,7 +2,7 @@ Volatilidad seccional 2018-2024, elección presidencial.
 
 Este repositorio contiene los siguientes archivos:
 
-1). Código en R para calcular la volatilidad electoral en cada sección con base en 
+1). Código en R para calcular la volatilidad electoral en cada sección con base en:
 a. Reglas de distribución de votos en coalición: https://portalanterior.ine.mx/2015/PREP/CentroDeAyuda/Normatividad/partidos_coaligados.html
 b. Volatilidad electoral partidos estables, partidos salientes y entrantes (Powell y Tucker, 2013)
 
